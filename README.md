@@ -1,6 +1,6 @@
 # zap-acp
 
-> **Docs:** [Agent Communication Protocol over ZAP](https://zap-proto.dev/docs) · part of the [ZAP Protocol](https://zap-proto.io)
+> **Docs:** [Agent Communication Protocol over ZAP](https://zap-proto.dev/docs/protocols/acp) · part of the [ZAP Protocol](https://zap-proto.io)
 
 
 Agent Communication Protocol over ZAP — FIPA-style speech acts, signed.
